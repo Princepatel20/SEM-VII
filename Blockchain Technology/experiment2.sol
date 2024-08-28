@@ -1,3 +1,5 @@
+///To write, deploy, and execute a basic smart contract that makes use of different data types in Solidity.
+
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.17;
 contract prince_gondaliya2 {
