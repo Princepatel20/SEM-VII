@@ -1,3 +1,5 @@
+///To write, deploy, and execute a smart contract that consists of state variables, local variables, constructor and public/external function in Solidity.
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 contract PrinceGondaliya3 {
