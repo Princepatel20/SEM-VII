@@ -1,3 +1,5 @@
+///To write, deploy, and execute a smart contract that performs simple mathematical operations of three operands, and makes use of view functions in Solidity.
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
 
